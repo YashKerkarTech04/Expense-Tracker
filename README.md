@@ -25,7 +25,8 @@
 
 ## 🛠️ Tech Stack
 
-|----------|---------|----------|
-| Frontend | HTML, CSS, JavaScript | 
-| Backend  |  PHP    |          
-| Database | XAMPP (MySQL or JSON |         
+| Layer     | Technology             |
+|-----------|------------------------|
+| Frontend  | HTML, CSS, JavaScript  |
+| Backend   | PHP                    |
+| Database  | XAMPP (MySQL or JSON)  |
