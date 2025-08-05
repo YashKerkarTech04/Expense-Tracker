@@ -25,10 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend | Database |
 |----------|---------|----------|
-| HTML     | PHP     | XAMPP (MySQL or JSON) |
-| CSS      |         |          |
-| JavaScript |       |          |
-
-## 📁 Project Structure
+| Frontend | HTML, CSS, JavaScript  
+| Backend  |  PHP    |          
+| Database | XAMPP (MySQL or JSON |         
